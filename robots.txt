@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.omjuiceshakes.com/sitemap.xml
+Sitemap: https://omjuice.in/sitemap.xml
