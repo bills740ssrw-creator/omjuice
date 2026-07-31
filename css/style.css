@@ -620,8 +620,9 @@ footer a:hover { color: var(--cream-200); }
 .about-story-img {
   border-radius: var(--radius-md);
   width: 100%;
-  aspect-ratio: 4/5;
+  aspect-ratio: 4/3;
   object-fit: cover;
+  object-position: left;
   background: var(--cream-300);
 }
 .about-story-text h2 {
