@@ -625,6 +625,13 @@ footer a:hover { color: var(--cream-200); }
   object-position: left;
   background: var(--cream-300);
 }
+.about-story-imgs {
+  display: grid;
+  gap: 1.5rem;
+}
+.about-story-img-2 {
+  object-position: center;
+}
 .about-story-text h2 {
   margin-bottom: 1.5rem;
 }
